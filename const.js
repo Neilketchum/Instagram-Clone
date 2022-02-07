@@ -1,0 +1,1 @@
+export const profilePictureLink = "https://dcoders-moz.github.io/img/members/daipayan.png"
